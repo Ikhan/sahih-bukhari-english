@@ -1,0 +1,297 @@
+{
+  "bookNumber": 71,
+  "bookName": {
+    "english": "Sacrifice on Occasion of Birth (`Aqiqa)",
+    "arabic": "كتاب العقيقة"
+  },
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterName": {
+        "english": "Chapter: The naming of a newly born child, Al-'Al-'Aqiqa and its Tahnik",
+        "arabic": "باب تَسْمِيَةِ الْمَوْلُودِ غَدَاةَ يُولَدُ، لِمَنْ لَمْ يَعُقَّ عَنْهُ، وَتَحْنِيكِهِ"
+      },
+      "hadiths": [
+        {
+          "hadithNumber": 5462,
+          "chapterNumber": 1,
+          "narrator": "`Amr bin Umaiyya",
+          "english": "That he saw Allah's Messenger (ﷺ) cutting a piece of mutton from its shoulder part he was carrying in his \nhand. When he was called for prayer, he put it down and the knife with which he was cutting it. Then \nhe stood up and offered the prayer without performing new ablution.",
+          "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،‏.‏ وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي جَعْفَرُ بْنُ عَمْرِو بْنِ أُمَيَّةَ، أَنَّ أَبَاهُ، عَمْرَو بْنَ أُمَيَّةَ أَخْبَرَهُ أَنَّهُ، رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم يَحْتَزُّ مِنْ كَتِفِ شَاةٍ فِي يَدِهِ، فَدُعِيَ إِلَى الصَّلاَةِ فَأَلْقَاهَا وَالسِّكِّينَ الَّتِي كَانَ يَحْتَزُّ بِهَا، ثُمَّ قَامَ فَصَلَّى، وَلَمْ يَتَوَضَّأْ‏.‏",
+          "inBookReference": ": Sahih al-Bukhari 5462",
+          "uscMsaReference": ": Vol. 7, Book 65, Hadith 372",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5463,
+          "chapterNumber": 1,
+          "narrator": "Anas bin Malik",
+          "english": "The Prophet (ﷺ) said, If supper is served and the Iqama for (Isha) prayer \n     is proclaimed, start with you supper first.\"",
+          "arabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ إِذَا وُضِعَ الْعَشَاءُ وَأُقِيمَتِ الصَّلاَةُ فَابْدَءُوا بِالْعَشَاءِ ‏\"‏‏.‏",
+          "inBookReference": ": Sahih al-Bukhari 5463",
+          "uscMsaReference": ": Vol. 7, Book 65, Hadith 373",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5464,
+          "chapterNumber": 1,
+          "narrator": "Nafi",
+          "english": "Once Ibn Umar was taking his supper while he was listening to the \n     recitation of (Quran by) the Imam (in the Isha prayer).",
+          "arabic": "وَعَنْ أَيُّوبَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ‏.‏\nوَعَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ تَعَشَّى مَرَّةً وَهْوَ يَسْمَعُ قِرَاءَةَ الإِمَامِ‏.‏",
+          "inBookReference": ": Sahih al-Bukhari 5464",
+          "uscMsaReference": ": Vol. 7, Book 65, Hadith 373",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5465,
+          "chapterNumber": 1,
+          "narrator": "Aisha",
+          "english": "The Prophet (ﷺ) said, \"If the Iqama for (`Isha') prayer is proclaimed and supper is served, take your supper \nfirst.\"",
+          "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أُقِيمَتِ الصَّلاَةُ وَحَضَرَ الْعَشَاءُ فَابْدَءُوا بِالْعَشَاءِ ‏\"‏‏.‏ قَالَ وُهَيْبٌ وَيَحْيَى بْنُ سَعِيدٍ عَنْ هِشَامٍ ‏\"‏ إِذَا وُضِعَ الْعَشَاءُ ‏\"‏‏.‏",
+          "inBookReference": ": Sahih al-Bukhari 5465",
+          "uscMsaReference": ": Vol. 7, Book 65, Hadith 374",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5466,
+          "chapterNumber": 1,
+          "narrator": "Anas",
+          "english": "I know (about) the Hijab (the order of veiling of women) more than anybody else. Ubai bin Ka`b used \nto ask me about it. Allah's Messenger (ﷺ) became the bridegroom of Zainab bint Jahsh whom he married at \nMedina. After the sun had risen high in the sky, the Prophet (ﷺ) invited the people to a meal. Allah's \nApostle remained sitting and some people remained sitting with him after the other guests had left. \nThen Allah's Messenger (ﷺ) got up and went away, and I too, followed him till he reached the door of \n`Aisha's room. Then he thought that the people must have left the place by then, so he returned and I \nalso returned with him. Behold, the people were still sitting at their places. So he went back again for \nthe second time, and I went along with him too. When we reached the door of `Aisha's room, he \nreturned and I also returned with him to see that the people had left. Thereupon the Prophet (ﷺ) hung a \ncurtain between me and him and the Verse regarding the order for (veiling of women) Hijab was \nrevealed.",
+          "arabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَنَسًا، قَالَ أَنَا أَعْلَمُ النَّاسِ، بِالْحِجَابِ كَانَ أُبَىُّ بْنُ كَعْبٍ يَسْأَلُنِي عَنْهُ، أَصْبَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَرُوسًا بِزَيْنَبَ ابْنَةِ جَحْشٍ وَكَانَ تَزَوَّجَهَا بِالْمَدِينَةِ، فَدَعَا النَّاسَ لِلطَّعَامِ بَعْدَ ارْتِفَاعِ النَّهَارِ، فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَجَلَسَ مَعَهُ رِجَالٌ بَعْدَ مَا قَامَ الْقَوْمُ، حَتَّى قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَمَشَى وَمَشَيْتُ مَعَهُ، حَتَّى بَلَغَ باب حُجْرَةِ عَائِشَةَ، ثُمَّ ظَنَّ أَنَّهُمْ خَرَجُوا فَرَجَعْتُ مَعَهُ، فَإِذَا هُمْ جُلُوسٌ مَكَانَهُمْ، فَرَجَعَ وَرَجَعْتُ مَعَهُ الثَّانِيَةَ، حَتَّى بَلَغَ باب حُجْرَةِ عَائِشَةَ فَرَجَعَ وَرَجَعْتُ مَعَهُ، فَإِذَا هُمْ قَامُوا، فَضَرَبَ بَيْنِي وَبَيْنَهُ سِتْرًا، وَأُنْزِلَ الْحِجَابُ‏.‏",
+          "inBookReference": ": Sahih al-Bukhari 5466",
+          "uscMsaReference": ": Vol. 7, Book 65, Hadith 375",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5467,
+          "inBookHadithNumber": 1,
+          "chapterNumber": 1,
+          "narrator": "Abu Musa",
+          "english": "Narrated Abu Musa:A son was born to me and I took him to the Prophet (ﷺ) who named him Ibrahim, did Tahnik for him with a date, invoked Allah to bless him and returned him to me. (The narrator added: That was Abu Musa's eldest son.)",
+          "arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي بُرَيْدٌ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ وُلِدَ لِي غُلاَمٌ، فَأَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَسَمَّاهُ إِبْرَاهِيمَ، فَحَنَّكَهُ بِتَمْرَةٍ، وَدَعَا لَهُ بِالْبَرَكَةِ وَدَفَعَهُ إِلَىَّ، وَكَانَ أَكْبَرَ وَلَدِ أَبِي مُوسَى‏.‏",
+          "inBookReference": "Book 71, Hadith 1",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 376",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5468,
+          "inBookHadithNumber": 2,
+          "chapterNumber": 1,
+          "narrator": "`Aisha",
+          "english": "Narrated `Aisha:A boy was brought to the Prophet (ﷺ) to do Tahnik for him, but the boy urinated on him, whereupon the Prophet had water poured on the place of urine.",
+          "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِصَبِيٍّ يُحَنِّكُهُ، فَبَالَ عَلَيْهِ، فَأَتْبَعَهُ الْمَاءَ‏.‏",
+          "inBookReference": "Book 71, Hadith 2",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 377",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5469,
+          "inBookHadithNumber": 3,
+          "chapterNumber": 1,
+          "narrator": "Asma' bint Abu Bakr",
+          "english": "Narrated Asma' bint Abu Bakr:I conceived `Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger (ﷺ). Then he did its Tahnik with a date, and invoked Allah to bless him. It was the first child born in the Islamic era, therefore they (Muslims) were very happy with its birth, for it had been said to them that the Jews had bewitched them, and so they would not produce any offspring.",
+          "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا حَمَلَتْ بِعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ بِمَكَّةَ قَالَتْ فَخَرَجْتُ وَأَنَا مُتِمٌّ، فَأَتَيْتُ الْمَدِينَةَ فَنَزَلْتُ قُبَاءً فَوَلَدْتُ بِقُبَاءٍ، ثُمَّ أَتَيْتُ بِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَوَضَعْتُهُ فِي حَجْرِهِ، ثُمَّ دَعَا بِتَمْرَةٍ فَمَضَغَهَا، ثُمَّ تَفَلَ فِي فِيهِ فَكَانَ أَوَّلَ شَىْءٍ دَخَلَ جَوْفَهُ رِيقُ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ حَنَّكَهُ بِالتَّمْرَةِ، ثُمَّ دَعَا لَهُ فَبَرَّكَ عَلَيْهِ، وَكَانَ أَوَّلَ مَوْلُودٍ وُلِدَ فِي الإِسْلاَمِ، فَفَرِحُوا بِهِ فَرَحًا شَدِيدًا، لأَنَّهُمْ قِيلَ لَهُمْ إِنَّ الْيَهُودَ قَدْ سَحَرَتْكُمْ فَلاَ يُولَدُ لَكُمْ‏.‏",
+          "inBookReference": "Book 71, Hadith 3",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 378",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5470,
+          "inBookHadithNumber": 4,
+          "chapterNumber": 1,
+          "narrator": "Anas bin Malik",
+          "english": "Narrated Anas bin Malik: Abu Talha had a child who was sick. Once, while Abu Talha was out, the child died. When Abu Talha returned home, he asked, \"How does my son fare?\" Um Salaim (his wife) replied, \"He is quieter than he has ever been.\" Then she brought supper for him and he took his supper and slept with her. When he had finished, she said (to him), \"Bury the child (as he's dead).\" Next morning Abu Talha came to Allah's Messenger (ﷺ) and told him about that. The Prophet (ﷺ) said (to him), \"Did you sleep with your wife last night?\" Abu Talha said, \"Yes\". The Prophet (ﷺ) said, \"O Allah! Bestow your blessing on them as regards that night of theirs.\" Um Sulaim gave birth to a boy. Abu Talha told me to take care of the child till it was taken to the Prophet. Then Abu Talha took the child to the Prophet (ﷺ) and Um Sulaim sent some dates along with the child. The Prophet (ﷺ) took the child (on his lap) and asked if there was something with him. The people replied, \"Yes, a few dates.\" The Prophet took a date, chewed it, took some of it out of his mouth, put it into the child's mouth and did Tahnik for him with that, and named him 'Abdullah.",
+          "arabic": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَوْنٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ كَانَ ابْنٌ لأَبِي طَلْحَةَ يَشْتَكِي، فَخَرَجَ أَبُو طَلْحَةَ، فَقُبِضَ الصَّبِيُّ فَلَمَّا رَجَعَ أَبُو طَلْحَةَ قَالَ مَا فَعَلَ ابْنِي قَالَتْ أُمُّ سُلَيْمٍ هُوَ أَسْكَنُ مَا كَانَ‏.‏ فَقَرَّبَتْ إِلَيْهِ الْعَشَاءَ فَتَعَشَّى، ثُمَّ أَصَابَ مِنْهَا، فَلَمَّا فَرَغَ قَالَتْ وَارِ الصَّبِيَّ‏.‏ فَلَمَّا أَصْبَحَ أَبُو طَلْحَةَ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرَهُ فَقَالَ ‏\"‏ أَعْرَسْتُمُ اللَّيْلَةَ ‏\"‏‏.‏ قَالَ نَعَمْ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ بَارِكْ لَهُمَا ‏\"‏‏.‏ فَوَلَدَتْ غُلاَمًا قَالَ لِي أَبُو طَلْحَةَ احْفَظْهُ حَتَّى تَأْتِيَ بِهِ النَّبِيَّ صلى الله عليه وسلم فَأَتَى بِهِ النَّبِيَّ صلى الله عليه وسلم وَأَرْسَلَتْ مَعَهُ بِتَمَرَاتٍ، فَأَخَذَهُ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\"‏ أَمَعَهُ شَىْءٌ ‏\"‏‏.‏ قَالُوا نَعَمْ تَمَرَاتٌ‏.‏ فَأَخَذَهَا النَّبِيُّ صلى الله عليه وسلم فَمَضَغَهَا، ثُمَّ أَخَذَ مِنْ فِيهِ فَجَعَلَهَا فِي فِي الصَّبِيِّ، وَحَنَّكَهُ بِهِ، وَسَمَّاهُ عَبْدَ اللَّهِ‏.‏",
+          "inBookReference": "Book 71, Hadith 4",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 379",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5470,
+          "inBookHadithNumber": 5,
+          "chapterNumber": 1,
+          "narrator": "Anas",
+          "english": "Narrated Anas: As above.",
+          "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، وَسَاقَ الْحَدِيثَ،‏.‏",
+          "inBookReference": "Book 71, Hadith 5",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 379",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 2,
+      "chapterName": {
+        "english": "Chapter: 'Aqiqa is to remove what harms the child",
+        "arabic": "باب إِمَاطَةِ الأَذَى عَنِ الصَّبِيِّ، فِي الْعَقِيقَةِ"
+      },
+      "hadiths": [
+        {
+          "hadithNumber": 5471,
+          "inBookHadithNumber": 6,
+          "chapterNumber": 2,
+          "narrator": "",
+          "english": "Narrated Salman bin 'Amri Ad-Dabbi, the Prophet (ﷺ) said, 'Aqiqa is to be offered for a (newly born) boy.",
+          "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، قَالَ مَعَ الْغُلاَمِ عَقِيقَةٌ‏.‏ وَقَالَ حَجَّاجٌ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا أَيُّوبُ وَقَتَادَةُ وَهِشَامٌ وَحَبِيبٌ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+          "inBookReference": "Book 71, Hadith 6",
+          "uscMsaReference": "Vol. 1, Book 66, Hadith 379",
+          "grade": "Sahih"
+        },
+        {
+          "hadithNumber": 5472,
+          "inBookHadithNumber": 7,
+          "chapterNumber": 2,
+          "narrator": "Salman bin 'Amir Ad-Dabbi",
+          "english": "Narrated Salman bin 'Amir Ad-Dabbi:I heard Allah's Messenger (ﷺ) saying, \"'Aqiqa is to be offered for a (newly born) boy, so slaughter (an animal) for him, and relieve him of his suffering.\" Narrated Habib bin Ash-Shahid: Ibn Seereen told me to ask Al-Hassan from whom he had heard the narration of 'Aqiqa. I asked him and he said, \"From Samura bin Jundab.\"",
+          "arabic": "وَقَالَ غَيْرُ وَاحِدٍ عَنْ عَاصِمٍ، وَهِشَامٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنِ الرَّبَابِ، عَنْ سَلْمَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَرَوَاهُ يَزِيدُ بْنُ إِبْرَاهِيمَ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ قَوْلَهُ‏.‏ وَقَالَ أَصْبَغُ أَخْبَرَنِي ابْنُ وَهْبٍ عَنْ جَرِيرِ بْنِ حَازِمٍ عَنْ أَيُّوبَ السَّخْتِيَانِيِّ عَنْ مُحَمَّدِ بْنِ سِيرِينَ حَدَّثَنَا سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَعَ الْغُلاَمِ عَقِيقَةٌ، فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الأَذَى ‏\"‏‏.‏ \nحَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ أَمَرَنِي ابْنُ سِيرِينَ أَنْ أَسْأَلَ الْحَسَنَ، مِمَّنْ سَمِعَ حَدِيثَ الْعَقِيقَةِ، فَسَأَلْتُهُ فَقَالَ مِنْ سَمُرَةَ بْنِ جُنْدَبٍ‏.‏",
+          "inBookReference": "Book 71, Hadith 7",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 380",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 3,
+      "chapterName": {
+        "english": "Chapter: Al-Fara’",
+        "arabic": "باب الْفَرَعِ"
+      },
+      "hadiths": [
+        {
+          "hadithNumber": 5473,
+          "inBookHadithNumber": 8,
+          "chapterNumber": 3,
+          "narrator": "Abu Huraira",
+          "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira (is permissible):\" Al-Fara' nor 'Atira (is permissible):\" Al- Fara' was the first offspring (of camels or sheep) which the pagans used to offer (as a sacrifice) to their idols. And Al-`Atira was (a sheep which was to be slaughtered) during the month of Rajab.",
+          "arabic": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، أَخْبَرَنَا الزُّهْرِيُّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ وَالْفَرَعُ أَوَّلُ النِّتَاجِ، كَانُوا يَذْبَحُونَهُ لَطِوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+          "inBookReference": "Book 71, Hadith 8",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 382",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "chapterNumber": 4,
+      "chapterName": {
+        "english": "Chapter: Al-‘Atira",
+        "arabic": "باب الْعَتِيرَةِ"
+      },
+      "hadiths": [
+        {
+          "hadithNumber": 5474,
+          "inBookHadithNumber": 9,
+          "chapterNumber": 4,
+          "narrator": "Abu Huraira",
+          "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira) is permissible).\" Al-Fara' was the first offspring (they got of camels or sheep) which they (pagans) used to offer (as a sacrifice) to their idols. 'Atira was (a sheep which used to be slaughtered) during the month of Rajab.",
+          "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَا عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ قَالَ وَالْفَرَعَ أَوَّلُ نِتَاجٍ كَانَ يُنْتَجُ لَهُمْ، كَانُوا يَذْبَحُونَهُ لِطَوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+          "inBookReference": "Book 71, Hadith 9",
+          "uscMsaReference": "Vol. 7, Book 66, Hadith 383",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ],
+  "hadiths": [
+    {
+      "hadithNumber": 5467,
+      "inBookHadithNumber": 1,
+      "chapterNumber": 1,
+      "narrator": "Abu Musa",
+      "english": "Narrated Abu Musa:A son was born to me and I took him to the Prophet (ﷺ) who named him Ibrahim, did Tahnik for him with a date, invoked Allah to bless him and returned him to me. (The narrator added: That was Abu Musa's eldest son.)",
+      "arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي بُرَيْدٌ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ وُلِدَ لِي غُلاَمٌ، فَأَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَسَمَّاهُ إِبْرَاهِيمَ، فَحَنَّكَهُ بِتَمْرَةٍ، وَدَعَا لَهُ بِالْبَرَكَةِ وَدَفَعَهُ إِلَىَّ، وَكَانَ أَكْبَرَ وَلَدِ أَبِي مُوسَى‏.‏",
+      "inBookReference": "Book 71, Hadith 1",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 376",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5468,
+      "inBookHadithNumber": 2,
+      "chapterNumber": 1,
+      "narrator": "`Aisha",
+      "english": "Narrated `Aisha:A boy was brought to the Prophet (ﷺ) to do Tahnik for him, but the boy urinated on him, whereupon the Prophet had water poured on the place of urine.",
+      "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِصَبِيٍّ يُحَنِّكُهُ، فَبَالَ عَلَيْهِ، فَأَتْبَعَهُ الْمَاءَ‏.‏",
+      "inBookReference": "Book 71, Hadith 2",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 377",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5469,
+      "inBookHadithNumber": 3,
+      "chapterNumber": 1,
+      "narrator": "Asma' bint Abu Bakr",
+      "english": "Narrated Asma' bint Abu Bakr:I conceived `Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger (ﷺ). Then he did its Tahnik with a date, and invoked Allah to bless him. It was the first child born in the Islamic era, therefore they (Muslims) were very happy with its birth, for it had been said to them that the Jews had bewitched them, and so they would not produce any offspring.",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا حَمَلَتْ بِعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ بِمَكَّةَ قَالَتْ فَخَرَجْتُ وَأَنَا مُتِمٌّ، فَأَتَيْتُ الْمَدِينَةَ فَنَزَلْتُ قُبَاءً فَوَلَدْتُ بِقُبَاءٍ، ثُمَّ أَتَيْتُ بِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَوَضَعْتُهُ فِي حَجْرِهِ، ثُمَّ دَعَا بِتَمْرَةٍ فَمَضَغَهَا، ثُمَّ تَفَلَ فِي فِيهِ فَكَانَ أَوَّلَ شَىْءٍ دَخَلَ جَوْفَهُ رِيقُ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ حَنَّكَهُ بِالتَّمْرَةِ، ثُمَّ دَعَا لَهُ فَبَرَّكَ عَلَيْهِ، وَكَانَ أَوَّلَ مَوْلُودٍ وُلِدَ فِي الإِسْلاَمِ، فَفَرِحُوا بِهِ فَرَحًا شَدِيدًا، لأَنَّهُمْ قِيلَ لَهُمْ إِنَّ الْيَهُودَ قَدْ سَحَرَتْكُمْ فَلاَ يُولَدُ لَكُمْ‏.‏",
+      "inBookReference": "Book 71, Hadith 3",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 378",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5470,
+      "inBookHadithNumber": 4,
+      "chapterNumber": 1,
+      "narrator": "Anas bin Malik",
+      "english": "Narrated Anas bin Malik: Abu Talha had a child who was sick. Once, while Abu Talha was out, the child died. When Abu Talha returned home, he asked, \"How does my son fare?\" Um Salaim (his wife) replied, \"He is quieter than he has ever been.\" Then she brought supper for him and he took his supper and slept with her. When he had finished, she said (to him), \"Bury the child (as he's dead).\" Next morning Abu Talha came to Allah's Messenger (ﷺ) and told him about that. The Prophet (ﷺ) said (to him), \"Did you sleep with your wife last night?\" Abu Talha said, \"Yes\". The Prophet (ﷺ) said, \"O Allah! Bestow your blessing on them as regards that night of theirs.\" Um Sulaim gave birth to a boy. Abu Talha told me to take care of the child till it was taken to the Prophet. Then Abu Talha took the child to the Prophet (ﷺ) and Um Sulaim sent some dates along with the child. The Prophet (ﷺ) took the child (on his lap) and asked if there was something with him. The people replied, \"Yes, a few dates.\" The Prophet took a date, chewed it, took some of it out of his mouth, put it into the child's mouth and did Tahnik for him with that, and named him 'Abdullah.",
+      "arabic": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَوْنٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ كَانَ ابْنٌ لأَبِي طَلْحَةَ يَشْتَكِي، فَخَرَجَ أَبُو طَلْحَةَ، فَقُبِضَ الصَّبِيُّ فَلَمَّا رَجَعَ أَبُو طَلْحَةَ قَالَ مَا فَعَلَ ابْنِي قَالَتْ أُمُّ سُلَيْمٍ هُوَ أَسْكَنُ مَا كَانَ‏.‏ فَقَرَّبَتْ إِلَيْهِ الْعَشَاءَ فَتَعَشَّى، ثُمَّ أَصَابَ مِنْهَا، فَلَمَّا فَرَغَ قَالَتْ وَارِ الصَّبِيَّ‏.‏ فَلَمَّا أَصْبَحَ أَبُو طَلْحَةَ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرَهُ فَقَالَ ‏\"‏ أَعْرَسْتُمُ اللَّيْلَةَ ‏\"‏‏.‏ قَالَ نَعَمْ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ بَارِكْ لَهُمَا ‏\"‏‏.‏ فَوَلَدَتْ غُلاَمًا قَالَ لِي أَبُو طَلْحَةَ احْفَظْهُ حَتَّى تَأْتِيَ بِهِ النَّبِيَّ صلى الله عليه وسلم فَأَتَى بِهِ النَّبِيَّ صلى الله عليه وسلم وَأَرْسَلَتْ مَعَهُ بِتَمَرَاتٍ، فَأَخَذَهُ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\"‏ أَمَعَهُ شَىْءٌ ‏\"‏‏.‏ قَالُوا نَعَمْ تَمَرَاتٌ‏.‏ فَأَخَذَهَا النَّبِيُّ صلى الله عليه وسلم فَمَضَغَهَا، ثُمَّ أَخَذَ مِنْ فِيهِ فَجَعَلَهَا فِي فِي الصَّبِيِّ، وَحَنَّكَهُ بِهِ، وَسَمَّاهُ عَبْدَ اللَّهِ‏.‏",
+      "inBookReference": "Book 71, Hadith 4",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 379",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5470,
+      "inBookHadithNumber": 5,
+      "chapterNumber": 1,
+      "narrator": "Anas",
+      "english": "Narrated Anas: As above.",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، وَسَاقَ الْحَدِيثَ،‏.‏",
+      "inBookReference": "Book 71, Hadith 5",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 379",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5471,
+      "inBookHadithNumber": 6,
+      "chapterNumber": 2,
+      "narrator": "",
+      "english": "Narrated Salman bin 'Amri Ad-Dabbi, the Prophet (ﷺ) said, 'Aqiqa is to be offered for a (newly born) boy.",
+      "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، قَالَ مَعَ الْغُلاَمِ عَقِيقَةٌ‏.‏ وَقَالَ حَجَّاجٌ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا أَيُّوبُ وَقَتَادَةُ وَهِشَامٌ وَحَبِيبٌ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+      "inBookReference": "Book 71, Hadith 6",
+      "uscMsaReference": "Vol. 1, Book 66, Hadith 379",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5472,
+      "inBookHadithNumber": 7,
+      "chapterNumber": 2,
+      "narrator": "Salman bin 'Amir Ad-Dabbi",
+      "english": "Narrated Salman bin 'Amir Ad-Dabbi:I heard Allah's Messenger (ﷺ) saying, \"'Aqiqa is to be offered for a (newly born) boy, so slaughter (an animal) for him, and relieve him of his suffering.\" Narrated Habib bin Ash-Shahid: Ibn Seereen told me to ask Al-Hassan from whom he had heard the narration of 'Aqiqa. I asked him and he said, \"From Samura bin Jundab.\"",
+      "arabic": "وَقَالَ غَيْرُ وَاحِدٍ عَنْ عَاصِمٍ، وَهِشَامٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنِ الرَّبَابِ، عَنْ سَلْمَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَرَوَاهُ يَزِيدُ بْنُ إِبْرَاهِيمَ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ قَوْلَهُ‏.‏ وَقَالَ أَصْبَغُ أَخْبَرَنِي ابْنُ وَهْبٍ عَنْ جَرِيرِ بْنِ حَازِمٍ عَنْ أَيُّوبَ السَّخْتِيَانِيِّ عَنْ مُحَمَّدِ بْنِ سِيرِينَ حَدَّثَنَا سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\n\"‏ مَعَ الْغُلاَمِ عَقِيقَةٌ، فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الأَذَى ‏\"‏‏.‏ \nحَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ أَمَرَنِي ابْنُ سِيرِينَ أَنْ أَسْأَلَ الْحَسَنَ، مِمَّنْ سَمِعَ حَدِيثَ الْعَقِيقَةِ، فَسَأَلْتُهُ فَقَالَ مِنْ سَمُرَةَ بْنِ جُنْدَبٍ‏.‏",
+      "inBookReference": "Book 71, Hadith 7",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 380",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5473,
+      "inBookHadithNumber": 8,
+      "chapterNumber": 3,
+      "narrator": "Abu Huraira",
+      "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira (is permissible):\" Al-Fara' nor 'Atira (is permissible):\" Al- Fara' was the first offspring (of camels or sheep) which the pagans used to offer (as a sacrifice) to their idols. And Al-`Atira was (a sheep which was to be slaughtered) during the month of Rajab.",
+      "arabic": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، أَخْبَرَنَا الزُّهْرِيُّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ وَالْفَرَعُ أَوَّلُ النِّتَاجِ، كَانُوا يَذْبَحُونَهُ لَطِوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+      "inBookReference": "Book 71, Hadith 8",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 382",
+      "grade": "Sahih"
+    },
+    {
+      "hadithNumber": 5474,
+      "inBookHadithNumber": 9,
+      "chapterNumber": 4,
+      "narrator": "Abu Huraira",
+      "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira) is permissible).\" Al-Fara' was the first offspring (they got of camels or sheep) which they (pagans) used to offer (as a sacrifice) to their idols. 'Atira was (a sheep which used to be slaughtered) during the month of Rajab.",
+      "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَا عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\n\"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ قَالَ وَالْفَرَعَ أَوَّلُ نِتَاجٍ كَانَ يُنْتَجُ لَهُمْ، كَانُوا يَذْبَحُونَهُ لِطَوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+      "inBookReference": "Book 71, Hadith 9",
+      "uscMsaReference": "Vol. 7, Book 66, Hadith 383",
+      "grade": "Sahih"
+    }
+  ],
+  "totalHadiths": 14,
+  "totalChapters": 4
+}
